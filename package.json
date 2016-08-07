@@ -1,0 +1,11 @@
+{
+  "name": "proxy-fluent-api",
+  "version": "1.0.0",
+  "description": "Make Fluent APIs using ES6 Proxies",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Keith Cirkel <npm@keithcirkel.co.uk> (http://keithcirkel.co.uk/)",
+  "license": "MIT"
+}
