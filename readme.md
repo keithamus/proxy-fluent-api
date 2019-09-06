@@ -1,6 +1,6 @@
 ## Proxy Fluent API
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/ygkcNhfZ9nTDeVM6P8LSGn1C/keithamus/proxy-fluent-api'>  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/ygkcNhfZ9nTDeVM6P8LSGn1C/keithamus/proxy-fluent-api.svg' /></a>
+
 
 This super simple library makes it super simple to create [Fluent APIs](https://en.wikipedia.org/wiki/Fluent_interface) in Node or the browser, using ES6 Proxies!
 
